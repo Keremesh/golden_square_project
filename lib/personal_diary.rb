@@ -8,4 +8,4 @@ def make_snippet(str)
   end
 end
 
-puts make_snippet(str)
+# puts make_snippet(str)
